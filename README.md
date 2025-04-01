@@ -1,8 +1,8 @@
 # Hello, I'm Jase 🏳️‍⚧️🏳️‍🌈! 👋
 
 🎮 Indie game developer  
-💼 Former Games Programmer at TT Games  
-💼 Former Junior Programmer at Firesprite  
+💼 Former Games Programmer TT Games  
+💼 Former Junior Programmer Firesprite  
 
 🛠️ Currently working on: [Test Adapter for Doctest](https://github.com/comfyjase/DoctestTestAdapter), *Godot Game yet to be revealed...*
 
