@@ -6,4 +6,4 @@
 
 🛠️ Currently working on: [Test Adapter for Doctest](https://github.com/comfyjase/DoctestTestAdapter), *Godot Game yet to be revealed...*
 
-💙 bluesky: [comfyjase](https://bsky.app/profile/comfyjase.bsky.social) | ☕ ko-fi: [comfyjase](https://ko-fi.com/comfyjase)
+💙 bsky: [comfyjase](https://bsky.app/profile/comfyjase.bsky.social) | ☕ ko-fi: [comfyjase](https://ko-fi.com/comfyjase)
